@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrtogrApp</string>
+    <string name="instrucciones_examen">Instrucciones:\nEl examen consta de cien palabras y ocho minutos para responder si están correcta, o incorrectamente escritas. Si dudas con alguna palabra puedes dejarla sin responder, ya que, cada fallo restará puntos de la nota final.\n¡Mucha suerte!</string>
+    <string name="instrucciones_desafio">Instrucciones:\nEn este desafío cada cuatro segundos se mostrará una palabra y ese será el tiempo que tendrás para responder si es correcta o incorrecta antes de que aparezca la siguiente. En las estadísticas se guardará tu mayor racha de aciertos consecutivos.\n¡Mucha suerte!</string>
+    <string name="instrucciones_for_time">Instrucciones:\nEn este desafío tendrás que completar cien aciertos en el menor tiempo posible. En las estadísticas se guardará el mejor tiempo conseguido.\n¡Mucha suerte!</string>
+    <string name="instrucciones_amrap">Instrucciones:\nEn este desafío tendrás ocho minutos para responder tantas palabras como puedas. El número máximo de aciertos quedará guardado en las estadísticas.\n¡Mucha suerte!</string>
+</resources>
